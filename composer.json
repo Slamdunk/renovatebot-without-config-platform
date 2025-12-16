@@ -1,0 +1,7 @@
+{
+    "name": "Slamdunk/renovatebot-without-config-platform",
+    "require": {
+        "php": "~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0",
+        "phptal/phptal": "~1.10.0 || ~1.11.0"
+    }
+}
